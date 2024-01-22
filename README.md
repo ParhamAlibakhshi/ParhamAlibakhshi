@@ -2,7 +2,6 @@
 - 👀 I’m interested in writing books and sharing my knowledge
 - 🌱 I’m currently learning The Fortran Programming Language
 - 💞️ I’m looking to collaborate on writhing books and creating programming languages tutorials 
-- I'm the main designer and developer of GrandMaster Series (TM) training series
 - 📫 How to reach me ...
 
 <!---
