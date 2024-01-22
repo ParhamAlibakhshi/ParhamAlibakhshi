@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParhamAlibakhshi
 - 👀 I’m interested in writing books and sharing my knowledge
-- 🌱 I’m currently learning The Fortran Programming Language
+- 🌱 I’m currently learning The Dart Programming Language
 - 💞️ I’m looking to collaborate on writhing books and creating programming languages tutorials 
 - 📫 How to reach me ...
 
